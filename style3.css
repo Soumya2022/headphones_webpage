@@ -1,0 +1,83 @@
+        .bgcolor
+        {
+            background: linear-gradient(to right, rgb(33, 184, 133), rgb(21, 206, 197));
+        }
+        
+        .button 
+        {
+            background-color:transparent;
+            border: solid white 1px;
+            color:white;
+            text-align: center;
+            font-size: 13px;
+            border-radius: 26px;
+            font-weight: bold;
+            cursor: pointer;
+            height: 40px;
+            width: 160px;
+            margin-top: 15px;
+        }
+        #bt{
+            border: solid black 1px;
+            color: black;
+        }
+        .button 
+        {
+           transition-duration: 0.4s;
+        }
+        .button:hover {
+        background-color: white;
+        color:black;
+        }
+        #bt:hover {
+            background-color: rgb(63, 221, 168);
+            color:black;
+            }
+        .txt1
+        {
+                font-size: 50px;
+                font-family: sans-serif;
+                margin: 0px 0px 0px 120px;
+                color: white;
+        }
+        .txt2
+        {
+                font-size: 22px;
+                font-family: sans-serif;
+                margin: 0px 0px 0px 120px;
+                color: white;
+        }
+        
+        .txt3{
+            font-size: 45px;
+            font-family: sans-serif;
+            margin: 0px 0px 0px 120px;
+            color:black;
+        }
+        
+        .txt4{
+            font-size: 23px;
+            font-family: sans-serif;
+            margin: 0px 0px 0px 120px;
+        }
+        .txt5{
+            font-size: 13px;
+            font-family: sans-serif;
+            margin: 0px 0px 0px 120px;
+        }
+        .Cls
+        {
+            font-size: 0%;
+            background-color: white;
+        }
+        .three
+        {
+            width: 33%;
+            height: 300px;
+        }
+
+
+          
+        
+    
+
